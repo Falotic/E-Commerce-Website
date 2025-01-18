@@ -7,13 +7,13 @@ import { getFirestore } from "firebase/firestore"; // Import firestore module
 import { getAuth } from "firebase/auth";
 // Firebase is available after the script is loaded
 const firebaseConfig = {
-  apiKey: "AIzaSyDF72681dY91QYzgqdTVnCf1EtOcGFeS-M",
-  authDomain: "e-commerce-1f616.firebaseapp.com",
-  projectId: "e-commerce-1f616",
-  storageBucket: "e-commerce-1f616.appspot.com",
-  messagingSenderId: "22868744350",
-  appId: "1:22868744350:web:19f20d01385d9e097ac38f",
-  measurementId: "G-0LFDPZ8CR9",
+  apiKey: "AIzaSyC3izwYdFI4AEz5SgDqKIx3O6AfiSXWW0w",
+  authDomain: "seguridadinfo-7bc45.firebaseapp.com",
+  projectId: "seguridadinfo-7bc45",
+  storageBucket: "seguridadinfo-7bc45.firebasestorage.app",
+  messagingSenderId: "842312083678",
+  appId: "1:842312083678:web:a9a2ecfd28d87500913a4f",
+  measurementId: "G-92G62N952X"
 };
 let app;
 let auth;
